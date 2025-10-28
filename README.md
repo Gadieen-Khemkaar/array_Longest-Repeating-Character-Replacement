@@ -113,7 +113,3 @@ public:
 ---
 
 **Author:** Gadieen Khemkaar
----
-**Language:** C++
-**Category:** Sliding Window / String Manipulation
-**Difficulty:** Medium
